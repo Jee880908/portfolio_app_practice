@@ -113,7 +113,7 @@ export default function Home() {
               <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold tracking-tight mb-6 sm:mb-8 fade-in leading-tight">
                 안녕하세요,
                 <br />
-                <span className="text-blue-600">개발자</span> 띵똥띵입니다
+              Test Automation Engineer <span className="text-blue-800 dark:text-blue-700"><br/>띵똥띵</span>입니다
               </h1>
               <p className="text-lg sm:text-xl md:text-2xl text-gray-600 dark:text-gray-400 mb-10 sm:mb-12 max-w-2xl px-4 fade-in leading-relaxed">
                 사용자 경험을 최우선으로 생각하며, 
@@ -123,13 +123,13 @@ export default function Home() {
               <div className="flex flex-col sm:flex-row gap-4 w-full sm:w-auto px-4 fade-in">
                 <a
                   href="#portfolio"
-                  className="px-8 py-4 bg-blue-600 text-white rounded-lg font-medium hover:bg-blue-700 active:bg-blue-800 transition-colors text-center shadow-lg shadow-blue-500/30 text-base sm:text-lg"
+                  className="px-20 py-15 bg-blue-600 text-white rounded-lg font-medium hover:bg-blue-700 active:bg-blue-800 transition-colors text-center shadow-lg shadow-blue-500/30 text-base sm:text-lg"
                 >
                   프로젝트 보기
                 </a>
                 <a
                   href="#contact"
-                  className="px-8 py-4 border-2 border-gray-300 dark:border-gray-600 text-gray-900 dark:text-gray-100 rounded-lg font-medium hover:border-blue-600 dark:hover:border-blue-500 hover:bg-blue-50 dark:hover:bg-blue-900/20 active:bg-blue-100 dark:active:bg-blue-900/30 transition-colors text-center text-base sm:text-lg"
+                  className="px-10 py-5 border-2 border-gray-300 dark:border-gray-600 text-gray-900 dark:text-gray-100 rounded-lg font-medium hover:border-blue-600 dark:hover:border-blue-500 hover:bg-blue-50 dark:hover:bg-blue-900/20 active:bg-blue-100 dark:active:bg-blue-900/30 transition-colors text-center text-base sm:text-lg"
                 >
                   연락하기
                 </a>
